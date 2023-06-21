@@ -10,7 +10,7 @@ API Documentation
 API Reference
 -------------
 
-.. automodule:: temperature_conversion.conversion
+.. automodule:: conversion
    :members:
    :undoc-members:
    :show-inheritance:
